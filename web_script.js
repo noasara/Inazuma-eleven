@@ -2098,7 +2098,7 @@ refresh8button.addEventListener("click", function () {
 //     modal.style.display = "none";
 // };
 
-//Ouverture du popup
+// //Ouverture du popup
 // var openBtn = document.getElementsById("exec");
 // openBtn.onclick = function () {
 //     var modal = document.getElementById("pop-up");
